@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my script folder, where I store the codes I developed while studying Python.
+
+Reference Instrutor: Pereira, Tiago Platform: Data Science Academy Link: https://www.datascienceacademy.com.br/course/fundamentos-de-linguagem-python-para-analise-de-dados-e-data-science
+
 <!--
 **DiasMelissa/DiasMelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
